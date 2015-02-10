@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #eee;
+}
+
+h1 {
+  color: #2B2B2B;
+}
+
+.container {
+  margin-top: 40px;
+  width: 50%;
+}
+
+#result {
+  text-align: center;
+}
+
+#result h2 {
+  font-size: 32pt;
+  display: inline;
+  color: #2B2B2B;
+}
+
+#result #result_text {
+  color: #5D4484;
+}
+
+.jumbotron .btn-primary {
+  background-color: #2B2B2B;
+  border-color: #2B2B2B;
+}
